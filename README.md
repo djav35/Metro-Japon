@@ -1,5 +1,5 @@
 # Metro Japon
-Calcular camino de distancia mínima en una sección del metro de Japón usando el algoritmo A*
+Calcula el camino de distancia mínima en una sección del metro de Japón usando el algoritmo A*
 ## Uso
 Puedes ejecutar este proyecto siguiendo estos pasos:
 
